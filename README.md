@@ -15,4 +15,4 @@ Although Python’s Numpy package includes a built in FFT function, we implement
 
 # Contact
 Yuting Ji - jiyz@bc.edu
-Scott Winters - wintersg@bc.edu
+<br>Scott Winters - wintersg@bc.edu
